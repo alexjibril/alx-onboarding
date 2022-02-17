@@ -1,0 +1,6 @@
+Sum = 0
+N = number 
+ FOR EACH number
+   N = N^2
+   Sum = Sum + N
+print Sum
